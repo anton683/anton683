@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
-  <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="200"/>
 </div>
 
    <div align="center">
@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anton683&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=orange" alt=""/>
 
