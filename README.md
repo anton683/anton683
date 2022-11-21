@@ -8,8 +8,8 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm interested in programming and graphic design
-___
+- 👀 I'm interested in programming and graphic design
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React JS
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -20,9 +20,7 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-___
+</div><br>
 
 <!---
 - 👋 Hi, I’m @anton683
