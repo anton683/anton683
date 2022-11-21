@@ -4,7 +4,7 @@
 </div>
 <br>
    <div align="center">
-	<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @anton683</h2>
+	<h2> Hi, I’m Anton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h2>
 	<img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=orange" alt=""/>
 </div>
 <br>
