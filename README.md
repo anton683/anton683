@@ -1,15 +1,15 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
   <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="180"/>
 </div>
-<br>
-   <div align="center">
+
+   <div align="left">
 	<h2> Hi, I’m Anton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h2>
 	<img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=orange" alt=""/>
 </div>
 
 ### :man_technologist: About Me :
-
+I'm interested in programming and graphic design
 ___
 
 ### :hammer_and_wrench: Languages and Tools :
