@@ -29,7 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&layout=compact&theme=vision-friendly-dark)
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=green" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=red" alt=""/>
 
 <!---
 - 👋 Hi, I’m @anton683
