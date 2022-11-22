@@ -40,6 +40,15 @@ ___
 
 ___
 ### :fire: My Stats :
+
+
+| <a href="https://github.com/anton683"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton's github stats" /></a> | <a href="https://github.com/anton683"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=red" alt=""/>
+
+<!---
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anton683&theme=dark&background=000000)
 <br>
 <br>
@@ -47,11 +56,8 @@ ___
 <br>
 <br>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&theme=highcontrast" />
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=red" alt=""/>
 
-<!---
+
 - 👋 Hi, I’m @anton683
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
