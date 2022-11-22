@@ -1,13 +1,15 @@
 <!--- <div align="center" >
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Anton+Che;a+Software+Developer;UI%2FUX+Designer;@anton683)](https://git.io/typing-svg)
  
 <img align='right' height='200' style="margin-right:20px" style="margin-bottom:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 </div>
 -->
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=gradient)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
@@ -44,22 +46,10 @@ ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&layout=compact&theme=vision-friendly-dark)
 <br>
 <br>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&theme=highcontrast" />
+<br>
+<br>
 <img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=red" alt=""/>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
-
-<details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
-
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
-  <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&hide=html&layout=compact&theme=highcontrast" />
- </div>
- 
- 
- </details>
 
 <!---
 - 👋 Hi, I’m @anton683
@@ -71,3 +61,5 @@ ___
 anton683/anton683 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![waving2](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient)
