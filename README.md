@@ -41,9 +41,9 @@ ___
 ___
 ### :fire: My Stats :
 
-
-| <a href="https://github.com/anton683"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton's github stats" /></a> | <a href="https://github.com/anton683"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&theme=highcontrast" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&show_icons=true&layout=compact&theme=highcontrast" />
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=anton683&show_icons=true&theme=highcontrast" />
 
 <img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=red" alt=""/>
 
@@ -57,6 +57,8 @@ ___
 <br>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&theme=highcontrast" />
 
+| <a href="https://github.com/anton683"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton's github stats" /></a> | <a href="https://github.com/anton683"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 - 👋 Hi, I’m @anton683
 - 👀 I’m interested in ...
