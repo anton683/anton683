@@ -14,21 +14,15 @@
 
 <div align="center">
 	<h2> Hi, I’m Anton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h2>
-</div>
-
-<br>
-<br>
-
-<div>
+						
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Anton+Che;@anton683)](https://git.io/typing-svg)
 		
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Anton+Che;a+Software+Developer;UI%2FUX+Designer;@anton683)](https://git.io/typing-svg)
-	
 </div>
 
 <img align='right' height='200' style="margin-right:20px" style="margin-bottom:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
-<br>
-<br>
+
+
 
 ### :man_technologist: About Me :
 - 👀 I'm interested in programming and graphic design
