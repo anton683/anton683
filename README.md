@@ -46,6 +46,21 @@ ___
 <br>
 <img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=red" alt=""/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
+ 
+ </details>
+
 <!---
 - 👋 Hi, I’m @anton683
 - 👀 I’m interested in ...
