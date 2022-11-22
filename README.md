@@ -41,9 +41,9 @@ ___
 ___
 ### :fire: My Stats :
 
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&theme=highcontrast" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&show_icons=true&layout=compact&theme=highcontrast" />
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=anton683&show_icons=true&theme=highcontrast" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=anton683&show_icons=true&theme=highcontrast" />
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=anton683&show_icons=true&theme=highcontrast" />
+<img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton683&show_icons=true&layout=compact&theme=highcontrast" />
 
 <img src="https://komarev.com/ghpvc/?username=anton683&style=flat-square&color=red" alt=""/>
 
